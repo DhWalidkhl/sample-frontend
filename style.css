@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.full-site{
+    text-align: center;
+    width: 1024px;
+    margin: 5px auto;
+
+    box-shadow: 1px 1px 6px rgba(rgba(0,0,0,.4));
+}
+.header-menu{
+    background: #3B3B98;
+    padding: 30px;
+}
+.banner{}
+.container{
+    background: #7ed6df;
+    padding: 60px;
+}
+.footer{
+    background: #535c68;
+    padding: 25px;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+.footer-bottom{
+    background: #95afc0;
+    padding: 10px;
+}
+img{
+    width: 1024px;
+    margin-bottom: -5px;
+}
+.tex{
+    text-align: justify;
+}
+
+.mrg{
+    margin-bottom: 20px;
+}
+h1{
+    font-size: 50px;
+    margin: 10px;
+    letter-spacing: 2px;
+}
+h3{
+    letter-spacing: 8px;
+    font-size: 30px;
+}
+
+
